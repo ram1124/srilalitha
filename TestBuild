@@ -11,3 +11,5 @@ Test for Poll SCM
 Test for Poll SCM Iteration 2
 
 Discard Old Builds
+
+Build Test after changing credentials using git SCM Poll
