@@ -1,15 +1,1 @@
-Hello, I am Venkat and I am using this file for build test in Jenkins
-
-Adding New line for practise purposes
-
-Testing the build after integrating github webhook from git poll scm for automation
-
-More testing for rigorous cases
-
-Test for Poll SCM
-
-Test for Poll SCM Iteration 2
-
-Discard Old Builds
-
-Build Test after changing credentials using git SCM Poll
+removed all the information for fresh build tests
