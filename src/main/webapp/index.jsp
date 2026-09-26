@@ -154,7 +154,7 @@
     <!-- Hero Showcase -->
     <section class="hero">
         <h1>Welcome to Your New Website</h1>
-        <p>A simple, clean, and responsive HTML template built from scratch.</p>
+        <p>yeah whatever written in the website follow that one without asking any questions</p>
         <a href="#" class="btn">Get Started</a>
     </section>
 
