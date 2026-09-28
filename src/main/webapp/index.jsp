@@ -167,7 +167,8 @@
             </div>
             <div class="card">
                 <h3>Modern Typography</h3>
-                <p>Using crisp, native system fonts ensures that your text is incredibly readable and fast to load across all operating systems.</p>
+                <p>Using crisp, native system fonts ensures that your sjfljsofjsofhsofhsdo;j lot of gibbersihs
+is incredibly readable and fast to load across all operating systems.</p>
             </div>
             <div class="card">
                 <h3>Clean Architecture</h3>
