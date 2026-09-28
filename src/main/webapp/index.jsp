@@ -163,7 +163,7 @@
         <div class="features-grid">
             <div class="card">
                 <h3>Venkata Janapamala</h3>
-                <p>This layout automatically adapts to any screen size, making it look beautiful on desktop, tablets, and mobile phones.</p>
+                <p>This layout auto adapts to any screen size, making it look beautiful on desktop, tablets, and mobile phones.</p>
             </div>
             <div class="card">
                 <h3>Modern Typography</h3>
