@@ -154,7 +154,7 @@
     <!-- Hero Showcase -->
     <section class="hero">
         <h1>Welcome to Your New Website</h1>
-        <p>yeah whatever written in the website follow that one without asking any questions</p>
+        <p>yeah whatever written in the fdgdfgd follow that onegfdgdsgdfgdfwithout asking any questions</p>
         <a href="#" class="btn">Get Started</a>
     </section>
 
