@@ -172,7 +172,7 @@ is incredibly readable and fast to load across all operating systems.</p>
             </div>
             <div class="card">
                 <h3>Clean Architecture</h3>
-                <p>Built using semantic HTML5 elements like header, main, and footer, ensuring standard web accessibility compliance.</p>
+                <p>Venkata Janapamala is the best in everything he takes over.</p>
             </div>
         </div>
     </main>
