@@ -6,7 +6,7 @@
 
   <groupId>webapp</groupId>
   <artifactId>srilalitha</artifactId>
-  <version>8.6.3</version>
+  <version>8.6.4</version>
   <packaging>war</packaging>
 
   <name>srilalitha Maven Webapp</name>
