@@ -4,8 +4,8 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>srilalitha</groupId>
-  <artifactId>srilalitha</artifactId>
+  <groupId>webapp</groupId>
+  <artifactId>8.6.3</artifactId>
   <version>8.6.3</version>
   <packaging>war</packaging>
 
