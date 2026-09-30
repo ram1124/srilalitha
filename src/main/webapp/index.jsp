@@ -153,7 +153,7 @@
 
     <!-- Hero Showcase -->
     <section class="hero">
-        <h1>SriLalitha</h1>
+        <h1>Launching build in slave 1 which is dev env using githook</h1>
         <p>I am the best in Devops Engineers</p>
         <a href="#" class="btn">Get Started</a>
     </section>
