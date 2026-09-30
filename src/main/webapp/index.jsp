@@ -153,7 +153,7 @@
 
     <!-- Hero Showcase -->
     <section class="hero">
-        <h1>Venkata Janapamala</h1>
+        <h1>SriLalitha</h1>
         <p>I am the best in Devops Engineers</p>
         <a href="#" class="btn">Get Started</a>
     </section>
@@ -162,7 +162,7 @@
     <main>
         <div class="features-grid">
             <div class="card">
-                <h3>sri Lalith weds Venkata Janapamala</h3>
+                <h3>Sri Lalitha weds Venkata Janapamala</h3>
                 <p>This layout auto adapts to any screen size, making it look beautiful on desktop, tablets, and mobile phones.</p>
             </div>
             <div class="card">
